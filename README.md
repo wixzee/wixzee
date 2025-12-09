@@ -9,12 +9,10 @@ Ushbu loyiha test va amaliyot uchun yaratilgan. Loyihada kodlar, funksiyalar va 
 - Har qanday qurilmani Nomini Ozgartradi
 
 ## Ishlatish
-1-Magiskni Oching va -Modules- ga Bosing
-2-Tepadagi Install From Storage Bosing
-3-Xiaomi.Redmi.8.@wixzee.zip- Bosing
-4-Ornatilgan Telefoni Restart Qiling
-5-Endi Telefoningiz Redmi 8 ga ozgardi
+Magiskni Oching va -Modules- ga Bosing
+Tepadagi Install From Storage Bosing
+Xiaomi.Redmi.8.@wixzee.zip- Bosing
+Ornatilgan Telefoni Restart Qiling
+Endi Telefoningiz Redmi 8 ga ozgardi
 
-## Yaratuvchi
-
-- @WIXZEE -
+## Yaratuvchi @WIXZEE
